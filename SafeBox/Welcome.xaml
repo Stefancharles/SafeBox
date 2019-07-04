@@ -1,0 +1,14 @@
+﻿<Window x:Class="SafeBox.Welcome"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="智能保险箱" Height="650" Width="360">
+    <Grid>
+
+        <Grid.Background>
+            <ImageBrush ImageSource="Resources/bg_launch.png"/>
+        </Grid.Background>
+        <Image HorizontalAlignment="Left" Height="160" Margin="107,91,0,0" VerticalAlignment="Top" Width="161" Source="Resources/icon_ablout_safe.png"/>
+        <Image HorizontalAlignment="Left" Height="48" Margin="107,300,0,0" VerticalAlignment="Top" Width="130" Source="Resources/btn_open.png" MouseUp="Image_MouseUp"/>
+        <Image HorizontalAlignment="Left" Height="40" Margin="107,414,0,0" VerticalAlignment="Top" Width="101" Source="Resources/logo_newlandedu.png"/>
+    </Grid>
+</Window>
