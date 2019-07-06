@@ -1,0 +1,14 @@
+E:\NewLand\C#Demo\SafeBox\BLL\bin\Debug\BLL.dll
+E:\NewLand\C#Demo\SafeBox\BLL\bin\Debug\BLL.pdb
+E:\NewLand\C#Demo\SafeBox\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\NewLand\C#Demo\SafeBox\BLL\bin\Debug\NLECloudSDK.dll
+E:\NewLand\C#Demo\SafeBox\BLL\bin\Debug\NLECloudSDK.pdb
+E:\NewLand\C#Demo\SafeBox\BLL\obj\Debug\BLL.dll
+E:\NewLand\C#Demo\SafeBox\BLL\obj\Debug\BLL.pdb
+E:\NewLand\C#Demo\SafeBox\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\STM\18SourceCode\C#项目DEMO代码\SafeBox\BLL\bin\Debug\BLL.dll
+E:\STM\18SourceCode\C#项目DEMO代码\SafeBox\BLL\bin\Debug\BLL.pdb
+E:\STM\18SourceCode\C#项目DEMO代码\SafeBox\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\STM\18SourceCode\C#项目DEMO代码\SafeBox\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\STM\18SourceCode\C#项目DEMO代码\SafeBox\BLL\obj\Debug\BLL.dll
+E:\STM\18SourceCode\C#项目DEMO代码\SafeBox\BLL\obj\Debug\BLL.pdb
